@@ -1,9 +1,11 @@
 import React from 'react'
+import { Routes } from 'react-router-dom'
+import Home from './pages/Home'
 
 const App = () => {
   return (
-    <div className='text-green-500'>
-      Testing Tailwind
+    <div>
+
     </div>
   )
 }
